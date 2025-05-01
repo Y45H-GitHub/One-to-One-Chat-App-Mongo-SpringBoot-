@@ -173,17 +173,3 @@ docker-compose up -d
 
 ---
 
-## 📝 License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-```
-
----
-
-✅ **Ready to go:** You can just save this as your `README.md` file and commit it.  
-✅ **Safe:** No real usernames/passwords — uses `<your-username>` placeholders.  
-✅ **Looks professional:** This follows modern open-source project styles.
-
----
-
-Would you also like me to generate a clean `.env.example` file and `.gitignore` snippet (so you don’t accidentally leak `.env` or sensitive configs in future commits)?  
-Just say: **"Yes, give .env and .gitignore too!"** 👇 (recommended for GitHub projects)
