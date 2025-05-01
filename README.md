@@ -168,7 +168,8 @@ docker-compose up -d
 ## 🙌 Author
 
 - **Yash**  
-  [GitHub]([https://github.com/Y45H-GitHub]) • [LinkedIn]([https://www.linkedin.com/in/yashvchoudhary])
+  https://github.com/Y45H-GitHub
+  https://www.linkedin.com/in/yashvchoudhary
 
 ---
 
